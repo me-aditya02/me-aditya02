@@ -1,7 +1,7 @@
 ## Hi there 👋
 Aspiring Web Developer with strong skills in HTML, CSS, and JavaScript, along with a solid foundation in
 data structures and algorithms. Experienced in building responsive web applications and AI-based projects.
-Proficient  AWS, and cloud computing.
+Proficient in AWS, and cloud computing.
 
 <!--
 **me-aditya02/me-aditya02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
